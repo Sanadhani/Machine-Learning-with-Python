@@ -1,1 +1,1 @@
-# Machine-Learning-with-Python
+Explored machine learning techniques including supervised and unsupervised learning, regression analysis, classification methods, clustering techniques, and recommender systems rom the CognitiveClass.ai platform.
